@@ -1,0 +1,29 @@
+<html>
+<html>
+<head>
+	<title>Luna's Website</title>
+</head>
+<body>
+	<h1>Welcome to Luna's Website</h1>
+	<p>Learn all about this German Shepherd Black Labrador mix dog, Luna, here!</p>
+	<h2>About Luna</h2>
+	<ul>
+		<li>Luna has many names, including Moon, Lady Lykan, Chismosa, and Beautifuls.</li>
+		<li>She's an expert at side eye.</li>
+		<li>Luna protects mom and dad by barking ferociously at everyone.</li>
+		<li>She's 3!</li>
+		<li>Luna is looking for a partner in crime. Recommendations are encouraged.</li>
+	</ul>
+	<h2>Luna's Favorite Things</h2>
+	<ul>
+		<li>Her stuffed animal, referred to as, "Teddy," which is a giant pink ladybug with black dots.</li>
+		<li>Freshly peeled whole carrots.</li>
+		<li>Chasing dogs on the other side of the fence that she cannot see through.</li>
+		<li>Chasing birds the fly over our home and barking for them to dispurse.</li>
+		<li>Playing chase in the home but not outside.</li>
+		<li>Setting boundaries by extending and stiff arming her front paws.</li>
+	</ul>
+	<h2>Photo of Luna</h2>
+	<img src=""C:\Users\arielle.valdez\Pictures\Luna.jpg"" alt="A photo of Luna">
+</body>
+</html>
